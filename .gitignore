@@ -1,0 +1,2 @@
+# Ignore shared object libraries
+*.so
